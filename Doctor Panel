@@ -1,0 +1,44 @@
+This project aims to create a comprehensive healthcare management system with distinct functionalities for doctors, patients, and administrators. The system will streamline the process of booking and managing medical appointments, ensuring smooth communication and efficient handling of scheduling.
+
+Key Features:
+Separate Login for Doctors, Patients, and Admins:
+
+Doctors: Can manage their profiles, view and manage appointments.
+Patients: Can search for doctors, book appointments, and view their appointment history.
+Admins: Have access to verify/unverify doctor and patient accounts and oversee the system's operations.
+Admin Verification:
+
+Admins have the authority to verify or unverify doctors and patients to ensure the legitimacy of users on the platform.
+Doctor Search Functionality:
+
+Patients can search for doctors based on name, specialty, or city, making it easier to find the right medical professional for their needs.
+Appointment Booking:
+
+Patients can book appointments in the available slots of doctors. The system will display the doctor's available time slots, and patients can select a convenient time.
+Appointment Management for Doctors:
+
+Doctors can confirm or cancel appointments. This flexibility allows doctors to manage their schedules efficiently.
+Automated Meeting Scheduling:
+
+Once an appointment is confirmed, the system automatically schedules a meeting and sends notifications to the patient. This ensures that both the doctor and patient are aware of the appointment details.
+Workflow:
+Login Process:
+
+
+Users (doctors, patients, admins) log in through their respective portals.
+Verification by Admin:
+
+Admin verifies the accounts of doctors and patients to ensure authenticity.
+Doctor Search:
+
+Patients use the search functionality to find doctors by name, specialty, or city.
+Booking Appointments:
+
+Patients book appointments in the doctor's available slots.
+Appointment Management:
+
+Doctors review appointment requests and either confirm or cancel them.
+Meeting Notification:
+
+Upon confirmation of an appointment, the system schedules a meeting and sends notifications to the patient with the details.
+This system aims to simplify the appointment scheduling process, enhance communication between doctors and patients, and provide admins with the necessary tools to manage the platform effectively.
