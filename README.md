@@ -20,3 +20,10 @@ patients can see them for their knowledge about their disease
 also doctors can use them to explain the patients easily about the problem
 but we are not able to integrate it but we are planning to do it in future.
 models file is there in the repo we can watch and access the model from there 
+models file name is Startup.obj this file is made from blender so need to download blender for the same to view the models
+for refernce the image of cardiovascular model
+![image](https://github.com/NANDINI232003/Veersa-TelehealthSol/assets/121492011/eb247558-659f-4b54-8e4f-2d22d98641f5)
+image of skeletal system
+![image](https://github.com/NANDINI232003/Veersa-TelehealthSol/assets/121492011/750c95b4-7219-4211-b5bb-c3f33af0729f)
+here the files are static but when you ru it on blender it will provide you a 3D interface.
+
