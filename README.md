@@ -14,6 +14,9 @@ they will get the meeting link automatically for the confirmed appointments
 they can video conference .
 so this is our app is what about
 
+![Screenshot 2024-06-27 225003](https://github.com/NANDINI232003/Veersa-TelehealthSol/assets/121492011/a0c6edc6-48c1-41bd-aa5c-0cb7140291f1)
+
+
 note:- there is a special segment of AR/Vr that we are working. we can see the models of various body parts like cardiovascular system, skeletal system.
 they can be both accessible to patients and doctors
 patients can see them for their knowledge about their disease
